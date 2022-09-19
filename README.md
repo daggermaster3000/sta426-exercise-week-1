@@ -1,15 +1,4 @@
 # sta426-exercise-week-1
-
-
-
-
-<div id="top"></div>
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="image.jpg">
@@ -25,7 +14,7 @@ Repo for sta426 course exercise of week 1 </p>
 ## terminal code chunk
 
 
-* python libraries
+* import python libraries
   ```terminal
   pip install opencv2
   pip install csv
@@ -39,15 +28,9 @@ Repo for sta426 course exercise of week 1 </p>
 ```python
 print('hello world')
 ```
-  
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-## a link
-
-iGEM UNILausanne 2021 - [Website](https://2021.igem.org/Team:UNILausanne) - igem@unil.ch
-
+## a few links
 [Music link](https://www.youtube.com/watch?v=ddVv2FPuOk4)
+[Website](https://2021.igem.org/Team:UNILausanne)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
