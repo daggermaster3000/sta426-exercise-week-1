@@ -9,7 +9,7 @@ Repo for sta426 course exercise week 1
 
 
 
-<!-- PROJECT LOGO 
+<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="image.jpg">
@@ -19,7 +19,7 @@ Repo for sta426 course exercise week 1
 
   <p align="center">
 BLABLABLA  </p>
-</div>-->
+</div>
 
 
 
