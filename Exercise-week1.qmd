@@ -1,0 +1,35 @@
+---
+title: "Week 1 Exercise Part B"
+author: "Quillan Favey"
+format: html
+editor: visual
+---
+
+## 1) Negative binomial distribution
+
+We can generate a negative binomial distribution using the `rnegbin()` function fro m the MASS library. And plot a histogram with the `hist()` function.
+
+```{r}
+library(MASS)
+
+set.seed(10)  #set seed for reproductibility
+
+# declare variables
+mu = 10
+disp = 2
+
+#Proceed to sampling
+samples = rnegbin(100,mu = mu,theta = disp)
+hist(samples,main = "Linear plot of neg. binomial samples")
+```
+
+We can then plot the histogram on a log scale.
+
+```{r}
+hist(log(samples),main = "Log(x) plot of neg. binomial samples")
+hist(log(samples+1),main = "Log(x+1) plot of neg. binomial samples")
+```
+
+## Mean and variance of sample
+
+The mean of the sample is `r mean(samples)` and the variance is `r var(samples)`
