@@ -1,4 +1,4 @@
-# sta426-exercise-week-1
+# Quillan Favey sta426-exercise-week-1
 <br />
 <div align="center">
   <a href="image.jpg">
